@@ -1,4 +1,4 @@
-- 👋 저는 잘 하고 싶은 프론트엔드 신입 개발자 입니다!
+- 👋 잘 하고 싶은 프론트엔드 신입 개발자 입니다!
 - 👀 Frontend Web Developer
 - 🌱 I’m currently learning ...
 
