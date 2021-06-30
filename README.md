@@ -2,7 +2,7 @@
 - 👀 Frontend Web Developer
 - 🌱 I’m currently learning ...
 
-Velog 블로그 : https://velog.io/@dmsthd5627
+Velog blog : https://velog.io/@dmsthd5627
 
 <!---
 dmsthd56/dmsthd56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
